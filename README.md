@@ -13,7 +13,7 @@ I am Ata Ur Rehman - Fullstack Developer with the experience of 7 years in the f
 
 
 <table>
-  <tr colspan="1">
+  <tr colspan="7">
     <td>Frontend</td>
   </tr>
   <tr>
