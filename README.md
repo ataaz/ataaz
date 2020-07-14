@@ -20,7 +20,7 @@ I am Ata Ur Rehman - Fullstack Developer with the experience of 7 years in the f
     <td><img src="https://raw.githubusercontent.com/ataaz/ataaz/d5e064408842731af5560267b73aa846cfeb6309/boostrap.svg"></td>
     <td><img src="https://raw.githubusercontent.com/ataaz/ataaz/1b6fa3584909a98958f4f09d7a47d6cbb46ed766/html.svg"></td>
     <td><img src="https://raw.githubusercontent.com/ataaz/ataaz/1b6fa3584909a98958f4f09d7a47d6cbb46ed766/css.svg"></td>
-    <td><img src="https://raw.githubusercontent.com/ataaz/ataaz/d5e064408842731af5560267b73aa846cfeb6309/boostrap.svg"></td>
+    <td><img src="https://raw.githubusercontent.com/ataaz/ataaz/ee7d7a61b709cf572e233e6b90aee91f3a3f231f/tailwind.svg"></td>
     <td><img src="https://raw.githubusercontent.com/ataaz/ataaz/d5e064408842731af5560267b73aa846cfeb6309/boostrap.svg"></td>
     <td><img src="https://raw.githubusercontent.com/ataaz/ataaz/d5e064408842731af5560267b73aa846cfeb6309/boostrap.svg"></td>
     <td><img src="https://raw.githubusercontent.com/ataaz/ataaz/d5e064408842731af5560267b73aa846cfeb6309/boostrap.svg"></td>
