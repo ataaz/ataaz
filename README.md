@@ -10,7 +10,9 @@ I am Ata Ur Rehman - Fullstack Developer with the experience of 7 years in the f
 - 💬 Ask me about HTML, CSS, SASS, jQuery, JavaScript, React, VueJS and WordPress
 - 📫 How to reach me: <a href="https://www.facebook.com/ataazz/">Facebook</a>, <a href="https://www.twitter.com/ataaz/">Twitter</a>, <a href="https://www.linkedin.com/in/ataaz/">LinkedIn</a>
 
-
+<style>
+  td{background:#000;}
+  </style>
 
 <table>
   <tr colspan="7">
