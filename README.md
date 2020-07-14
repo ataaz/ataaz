@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1>I am Ata Ur Rehman - Fullstack Developer with the experience of 7 years in the field.</h1>
+<h2>I am Ata Ur Rehman - Fullstack Developer with the experience of 7 years in the field.</h2>
 
 
 - 🔭 I’m currently working with BeUniqueGroup as Web Developer
