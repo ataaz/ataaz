@@ -3,7 +3,7 @@
 <h2>I am Ata Ur Rehman - Fullstack Developer with the experience of 7 years in the field.</h2>
 
 
-- 🔭 I’m currently working with BeUniqueGroup as Sr. Web Developer
+- 🔭 I’m currently working with ARENA Agency as Sr. Web Developer
 - 🌱 I’m currently learning NodeJS
 - 👯 I’m looking to collaborate on projects
 - 💬 I know HTML5, CSS3, SASS, jQuery, JavaScript, ReactJS, React Native, Rest APIs, Postman, Redux toolkit, Webpack, Babel and WordPress
